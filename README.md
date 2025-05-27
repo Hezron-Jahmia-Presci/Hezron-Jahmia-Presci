@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jahmia Hezron
+# 👋 Hey, I'm Jahmia Hezron Presci
 
 I'm a full-stack developer and digital systems engineer based in Kampala, Uganda.
 
