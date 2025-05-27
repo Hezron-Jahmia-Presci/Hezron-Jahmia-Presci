@@ -38,16 +38,17 @@ Thoughtfully built. Purposefully shipped. Always evolving.
 
 ## 📊 GitHub Stats
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jahmia-Hezron&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Jahmia's GitHub Stats" />
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jahmia-Hezron&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jahmia's GitHub Stats" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahmia-Hezron&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Top Languages" />
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahmia-Hezron&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 ---
 
