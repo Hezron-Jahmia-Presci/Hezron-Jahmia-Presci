@@ -57,7 +57,7 @@ I’m a reflective and intentional person who values clarity, depth, and meaning
   <a href="https://wa.me/256752580722" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://jahmia-hezron.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
