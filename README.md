@@ -62,10 +62,7 @@ I try to approach my work thoughtfully, aiming for solutions that are reliable, 
   <a href="https://wa.me/256752580722" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://jahmia-hezron.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/hezron-jahmia-01a165371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
