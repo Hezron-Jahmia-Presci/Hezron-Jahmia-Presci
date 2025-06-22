@@ -1,8 +1,13 @@
 # 👋 Hey, I'm Jahmia Hezron Presci
 
-Hi, I’m Jahmia Hezron—a software engineer and IT professional from Kampala, Uganda. I specialize in backend development with Golang, frontend interfaces using React and TypeScript, and scalable infrastructure through Docker and Kubernetes. With a background in Information Technology and experience across full-stack development, mobile apps with Flutter, and DevOps, I enjoy creating clean, efficient systems that solve real problems. One of my most impactful projects has been the Digital Depression Diagnosis System (DDS)—a digital tool designed to support mental health assessments in Uganda’s national referral hospital.
+I'm an IT specialist and software engineer based in Kampala, Uganda. I work across the full stack — from frontend interfaces using React and TypeScript to backend systems in Golang, and infrastructure tools like Docker and Kubernetes.
 
-I’m a reflective and intentional person who values clarity, depth, and meaningful work. I approach technology with both structure and empathy—coding not just for function, but for people. Whether I’m exploring 3D modeling in Autodesk 3ds Max or refining UI/UX flows, I’m always seeking harmony between logic and design. I believe in building with purpose, staying grounded in values, and using tech as a tool for positive change.
+My background includes software development, teaching, and IT systems administration. I started out with an interest in multimedia and design, and gradually found myself drawn to web development, mobile apps with Flutter, and backend services. Over time, I've had the opportunity to work on a range of projects, learning to approach problems practically and patiently.
+
+I try to approach my work thoughtfully, aiming for solutions that are reliable, maintainable, and genuinely useful. Whether it's writing code, helping improve a system, or learning something new, I see it as a chance to grow and contribute in small, meaningful ways.
+
+---
+
 
 
 ---
