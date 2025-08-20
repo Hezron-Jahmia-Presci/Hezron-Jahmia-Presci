@@ -1,69 +1,37 @@
-# 👋 Hey, I'm Jahmia Hezron Presci
+# 🌙 Jahmia Hezron Presci  
 
-I'm an IT specialist and software engineer based in Kampala, Uganda. I work across the full stack — from frontend interfaces using React and TypeScript to backend systems in Golang, and infrastructure tools like Docker and Kubernetes.
-
-My background includes software development, teaching, and IT systems administration. I started out with an interest in multimedia and design, and gradually found myself drawn to web development, mobile apps with Flutter, and backend services. Over time, I've had the opportunity to work on a range of projects, learning to approach problems practically and patiently.
-
-I try to approach my work thoughtfully, aiming for solutions that are reliable, maintainable, and genuinely useful. Whether it's writing code, helping improve a system, or learning something new, I see it as a chance to grow and contribute in small, meaningful ways.
+Software engineer & IT specialist based in Kampala, Uganda.  
+I work across web, mobile, and backend systems — building with Go, React Native, Flutter, TypeScript, Node.js, and Next.js.  
+I enjoy thoughtful engineering: writing code that is reliable, maintainable, and quietly useful.  
 
 ---
 
-
-
----
-
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jahmia's GitHub Stats" />
-    </td>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect  
 
 <p align="left">
-  <a href="mailto:hezron.p.jahmia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/256752580722" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/hezron-jahmia-01a165371/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
+  <a href="mailto:hezron.p.jahmia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/256752580722" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hezron-jahmia-01a165371/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>  
