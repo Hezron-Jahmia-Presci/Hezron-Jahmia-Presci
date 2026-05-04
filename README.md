@@ -47,14 +47,13 @@ There’s a quiet approach behind my work — I value clarity over noise, depth 
 ---
 
 ## 📊 GitHub Stats
-
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&theme=tokyonight&hide_border=true"/>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+     </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
     </td>
   </tr>
 </table>
