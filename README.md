@@ -1,49 +1,16 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.svg" alt="Hezron Jahmia, software engineer and data scientist" width="100%">
 </p>
 
-<p align="center">
-  <a href="#introduction">Introduction</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
-  <a href="#practice">Practice</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
-  <a href="#activity">Activity</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
-  <a href="#present-pursuits">Present pursuits</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
-  <a href="#correspondence">Correspondence</a>
-</p>
+<br> -->
 
-<br>
+I am a software engineer and data scientist specializing in building robust cross-platform applications and scalable backend services, primarily using **Flutter** and **Go**. When tackling complex data problems, predictive modeling, or deep analysis, I turn to **Python**.
 
-<h2 align="center">Introduction</h2>
+My focus is on end-to-end execution: thoughtful architecture, intuitive and polished user interfaces, and reliable deployment. Recently, I have also been exploring game development using Flutter's Flame engine.
 
-<p align="center"><i>Welcome, and thank you for calling.</i></p>
-
-I am a software engineer and data scientist. I build cross-platform applications and the services behind them, chiefly in **Flutter** and **Go**, and I turn to **Python** when a problem calls for analysis, modelling, or a closer look at the data.
-
-My preference is for complete work: a considered architecture, an interface that is pleasant to use, and a product that is carried all the way to deployment. I am currently reading for a Master of Science in Big Data Analytics, and I have lately begun building games with Flutter's Flame engine.
-
-<p align="center">❦</p>
-
-<h2 align="center">Practice</h2>
-
-| | |
-| :--- | :--- |
-| **Applications and games** | <img src="https://img.shields.io/badge/Flutter-3b3d91?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-3b3d91?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Flame-3b3d91?style=flat-square&logo=flutter&logoColor=white" alt="Flame" /> <img src="https://img.shields.io/badge/Go-3b3d91?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Gin-3b3d91?style=flat-square&logo=gin&logoColor=white" alt="Gin" /> <img src="https://img.shields.io/badge/TypeScript-3b3d91?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-3b3d91?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-3b3d91?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
-| **Data science** | <img src="https://img.shields.io/badge/Python-3b3d91?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-3b3d91?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-3b3d91?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-3b3d91?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/R-3b3d91?style=flat-square&logo=r&logoColor=white" alt="R" /> |
-| **Delivery** | <img src="https://img.shields.io/badge/Docker-3b3d91?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-3b3d91?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-3b3d91?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-3b3d91?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-3b3d91?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-3b3d91?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-3b3d91?style=flat-square&logo=vscodium&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-3b3d91?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-3b3d91?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> |
-
-<p align="center">❦</p>
-
-<h2 align="center">Selected work</h2>
-
-<p align="center">
-  The repositories pinned above are the work I would most like you to see:<br>
-  data analysis and machine learning projects, alongside my application and game work.
-</p>
-
-<p align="center">❦</p>
-
-<h2 align="center">Activity</h2>
+| **Applications & Games** | **Data Science** | **Delivery** | **Tools** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Flame-%23FF4F00.svg?style=flat&logo=flame&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat&logo=gin&logoColor=white" height="50"> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" height="50"> <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB" height="50"> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="50"> | <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" height="50"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" height="50"> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" height="50"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white" height="50"> <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" height="50"> | <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" height="50"> <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="50"> | <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" height="50"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" height="50"> <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" height="50"> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" height="50"> |
 
 <p align="center">
   <picture>
@@ -56,35 +23,16 @@ My preference is for complete work: a considered architecture, an interface that
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Hezron-Jahmia-Presci&bg_color=00000000&color=c9cbf2&line=a9acf7&point=ffffff&area=true&hide_border=true">
-    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Hezron-Jahmia-Presci&bg_color=00000000&color=34378a&line=4b4fb3&point=34378a&area=true&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">❦</p>
-
-<h2 align="center">Present pursuits</h2>
-
 - **Building** end-to-end cross-platform applications and small 2D games.
-- **Studying** the Flame engine on Flutter, with Godot to follow.
+- **Exploring** game development with Flutter's Flame engine, with Godot to follow.
 - **Happy to discuss** Flutter, Go and Gin, application architecture, deployment, and applied machine learning.
 
-<p align="center">❦</p>
+I am glad to hear from collaborators, colleagues, and anyone with an interesting problem.
 
-<h2 align="center">Correspondence</h2>
-
-<p align="center">
-  I am glad to hear from collaborators, colleagues, and anyone with an interesting problem.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hezron-jahmia/">LinkedIn</a>
-  <!-- &nbsp;&nbsp;❦&nbsp;&nbsp; <a href="mailto:you@example.com">Email</a> -->
-  <!-- &nbsp;&nbsp;❦&nbsp;&nbsp; <a href="https://your-site.example">Website</a> -->
-</p>
+<a href="https://www.linkedin.com/in/hezron-jahmia/">LinkedIn</a>
+<!-- &nbsp;&nbsp;❦&nbsp;&nbsp; <a href="mailto:you@example.com">Email</a> -->
+<!-- &nbsp;&nbsp;❦&nbsp;&nbsp; <a href="https://your-site.example">Website</a> -->
 
 <br>
 
-<p align="center"><i>Hezron Jahmia</i></p>
+<i>Hezron Jahmia</i>
