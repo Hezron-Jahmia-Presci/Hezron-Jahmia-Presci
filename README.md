@@ -6,6 +6,7 @@
   <a href="#introduction">Introduction</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
   <a href="#practice">Practice</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
   <a href="#selected-work">Selected work</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
+  <a href="#activity">Activity</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
   <a href="#present-pursuits">Present pursuits</a> &nbsp;&nbsp;❦&nbsp;&nbsp;
   <a href="#correspondence">Correspondence</a>
 </p>
@@ -24,30 +25,43 @@ My preference is for complete work: a considered architecture, an interface that
 
 <h2 align="center">Practice</h2>
 
-| Discipline | Principal instruments |
+| | |
 | :--- | :--- |
-| **Software engineering** | Flutter, Dart, Go (Gin), REST APIs, PostgreSQL, TypeScript, React |
-| **Data science** | Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, R |
-| **Games** | Flutter Flame (in practice), Godot (to follow) |
-| **Delivery and tooling** | Docker, Kubernetes, GitHub Actions, Vercel, Git, Postman, Figma |
+| **Applications and games** | <img src="https://img.shields.io/badge/Flutter-3b3d91?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-3b3d91?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Flame-3b3d91?style=flat-square&logo=flutter&logoColor=white" alt="Flame" /> <img src="https://img.shields.io/badge/Go-3b3d91?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Gin-3b3d91?style=flat-square&logo=gin&logoColor=white" alt="Gin" /> <img src="https://img.shields.io/badge/TypeScript-3b3d91?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-3b3d91?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-3b3d91?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
+| **Data science** | <img src="https://img.shields.io/badge/Python-3b3d91?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-3b3d91?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-3b3d91?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-3b3d91?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/R-3b3d91?style=flat-square&logo=r&logoColor=white" alt="R" /> |
+| **Delivery** | <img src="https://img.shields.io/badge/Docker-3b3d91?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-3b3d91?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-3b3d91?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-3b3d91?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-3b3d91?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-3b3d91?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-3b3d91?style=flat-square&logo=vscodium&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-3b3d91?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-3b3d91?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> |
 
 <p align="center">❦</p>
 
 <h2 align="center">Selected work</h2>
 
-| Project | Description | Built with |
-| :--- | :--- | :--- |
-| [**Credit risk prediction**](https://github.com/Hezron-Jahmia-Presci/credit-risk-prediction) | A gradient-boosted classifier for loan default, with feature importance and SHAP explanations. | Python, XGBoost, scikit-learn |
-| [**Supplier performance analytics**](https://github.com/Hezron-Jahmia-Presci/spiro-supplier-analytics) | A data warehouse with a galaxy schema, Apriori association rules, and Power BI dashboards for an electric-motorcycle manufacturer. | Python, Mlxtend, Power BI |
-| [**Predictive maintenance**](https://github.com/Hezron-Jahmia-Presci/predictive-maintenance) | Machine failure prediction on imbalanced sensor data, comparing four models and explaining the result. | Python, XGBoost, SMOTE, SHAP |
-| [**Mental health text classification**](https://github.com/Hezron-Jahmia-Presci/short-text-nlp-mental-health) | A TF-IDF and Linear SVM pipeline sorting short statements into seven categories. | Python, scikit-learn |
+<p align="center">
+  The repositories pinned above are the work I would most like you to see:<br>
+  data analysis and machine learning projects, alongside my application and game work.
+</p>
 
-<!--
-  Add your Flutter, Go and game projects here as new rows, for example:
-  | [**Project name**](https://github.com/Hezron-Jahmia-Presci/repo-name) | One sentence on what it does and for whom. | Flutter, Go, PostgreSQL |
--->
+<p align="center">❦</p>
 
-The remaining repositories are on my [profile](https://github.com/Hezron-Jahmia-Presci?tab=repositories).
+<h2 align="center">Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&hide_border=true&bg_color=00000000&title_color=a9acf7&text_color=d5d7f5&icon_color=a9acf7&count_private=true">
+    <img height="165" alt="GitHub statistics" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Hezron-Jahmia-Presci&show_icons=true&hide_border=true&bg_color=00000000&title_color=34378a&text_color=3b3d5c&icon_color=4b4fb3&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=a9acf7&text_color=d5d7f5">
+    <img height="165" alt="Most used languages" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Hezron-Jahmia-Presci&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=34378a&text_color=3b3d5c">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Hezron-Jahmia-Presci&bg_color=00000000&color=c9cbf2&line=a9acf7&point=ffffff&area=true&hide_border=true">
+    <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Hezron-Jahmia-Presci&bg_color=00000000&color=34378a&line=4b4fb3&point=34378a&area=true&hide_border=true">
+  </picture>
+</p>
 
 <p align="center">❦</p>
 

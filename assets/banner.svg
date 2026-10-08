@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Hezron Jahmia</title>
+  <desc id="d">Software engineer and data scientist. Flutter, Go, Python and Flame.</desc>
+
+  <defs>
+    <!-- Raised surface: dark shadow bottom-right, light shadow top-left -->
+    <filter id="raised" filterUnits="userSpaceOnUse" x="0" y="0" width="900" height="300" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="13" result="b"/>
+      <feOffset in="b" dx="11" dy="11" result="d"/>
+      <feFlood flood-color="#b3a98c" flood-opacity="0.8" result="dc"/>
+      <feComposite in="dc" in2="d" operator="in" result="ds"/>
+      <feOffset in="b" dx="-11" dy="-11" result="l"/>
+      <feFlood flood-color="#fffef8" flood-opacity="1" result="lc"/>
+      <feComposite in="lc" in2="l" operator="in" result="ls"/>
+      <feMerge><feMergeNode in="ds"/><feMergeNode in="ls"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="raisedSm" filterUnits="userSpaceOnUse" x="0" y="0" width="900" height="300" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/>
+      <feOffset in="b" dx="5" dy="5" result="d"/>
+      <feFlood flood-color="#b3a98c" flood-opacity="0.85" result="dc"/>
+      <feComposite in="dc" in2="d" operator="in" result="ds"/>
+      <feOffset in="b" dx="-5" dy="-5" result="l"/>
+      <feFlood flood-color="#fffef8" flood-opacity="1" result="lc"/>
+      <feComposite in="lc" in2="l" operator="in" result="ls"/>
+      <feMerge><feMergeNode in="ds"/><feMergeNode in="ls"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Inset surface: shadows fall inside the shape -->
+    <filter id="inset" filterUnits="userSpaceOnUse" x="0" y="0" width="900" height="300" color-interpolation-filters="sRGB">
+      <feComponentTransfer in="SourceAlpha" result="inv"><feFuncA type="table" tableValues="1 0"/></feComponentTransfer>
+      <feGaussianBlur in="inv" stdDeviation="4" result="ib"/>
+      <feOffset in="ib" dx="4" dy="4" result="o1"/>
+      <feFlood flood-color="#a99f82" flood-opacity="0.9" result="c1"/>
+      <feComposite in="c1" in2="o1" operator="in" result="s1"/>
+      <feComposite in="s1" in2="SourceAlpha" operator="in" result="s1c"/>
+      <feOffset in="ib" dx="-4" dy="-4" result="o2"/>
+      <feFlood flood-color="#fffef8" flood-opacity="1" result="c2"/>
+      <feComposite in="c2" in2="o2" operator="in" result="s2"/>
+      <feComposite in="s2" in2="SourceAlpha" operator="in" result="s2c"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="s1c"/><feMergeNode in="s2c"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Cream ground -->
+  <rect width="900" height="300" rx="22" fill="#e8e2d1"/>
+
+  <!-- Raised card -->
+  <rect x="42" y="42" width="816" height="216" rx="40" fill="#e8e2d1" filter="url(#raised)"/>
+
+  <!-- Monogram: raised ring with an inset well -->
+  <circle cx="168" cy="150" r="62" fill="#e8e2d1" filter="url(#raisedSm)"/>
+  <circle cx="168" cy="150" r="44" fill="#e8e2d1" filter="url(#inset)"/>
+  <text x="168" y="161" text-anchor="middle" fill="#3b3d91"
+        font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="32" font-weight="600" letter-spacing="1">HJ</text>
+
+  <!-- Name and role -->
+  <text x="268" y="136" fill="#34378a"
+        font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="48" font-weight="600" letter-spacing="-0.5">Hezron Jahmia</text>
+  <text x="270" y="172" fill="#55589a"
+        font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="21">Software engineer and data scientist</text>
+
+  <!-- Inset stack pill -->
+  <rect x="270" y="192" width="300" height="38" rx="19" fill="#e8e2d1" filter="url(#inset)"/>
+  <text x="420" y="217" text-anchor="middle" fill="#4a4d94"
+        font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="15">Flutter, Go, Python, Flame</text>
+
+  <!-- Quiet accent: three raised dots, one filled in indigo -->
+  <circle cx="792" cy="112" r="9" fill="#e8e2d1" filter="url(#raisedSm)"/>
+  <circle cx="792" cy="150" r="11" fill="#3b3d91" filter="url(#raisedSm)"/>
+  <circle cx="792" cy="188" r="9" fill="#e8e2d1" filter="url(#raisedSm)"/>
+</svg>
