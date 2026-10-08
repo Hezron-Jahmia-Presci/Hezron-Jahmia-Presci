@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Hezron Jahmia</title>
+  <desc id="d">Software engineer and data scientist, beneath a Georgian fanlight ornament.</desc>
+
+  <!-- Ground: Wedgwood blue -->
+  <rect width="900" height="300" fill="#25405b"/>
+
+  <!-- Double gilt border -->
+  <rect x="14" y="14" width="872" height="272" fill="none" stroke="#c9a85c" stroke-width="1.6"/>
+  <rect x="22" y="22" width="856" height="256" fill="none" stroke="#c9a85c" stroke-opacity="0.55" stroke-width="0.8"/>
+
+  <!-- Corner lozenges -->
+  <g fill="#c9a85c">
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(40 40) rotate(45)"/>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(860 40) rotate(45)"/>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(40 260) rotate(45)"/>
+    <rect x="-4" y="-4" width="8" height="8" transform="translate(860 260) rotate(45)"/>
+  </g>
+
+  <!-- Fanlight -->
+  <g fill="none" stroke="#c9a85c" stroke-linecap="round">
+    <path d="M396 96 A54 54 0 0 1 504 96" stroke-width="0.9" stroke-opacity="0.6"/>
+    <path d="M404 96 A46 46 0 0 1 496 96" stroke-width="1.6"/>
+    <path d="M436 96 A14 14 0 0 1 464 96" stroke-width="1.2"/>
+    <line x1="388" y1="96" x2="512" y2="96" stroke-width="1.6"/>
+    <g stroke-width="1.1">
+      <line x1="462.9" y1="90.6" x2="492.5" y2="78.4"/>
+      <line x1="459.9" y1="86.1" x2="482.5" y2="63.5"/>
+      <line x1="455.4" y1="83.1" x2="467.6" y2="53.5"/>
+      <line x1="450" y1="82" x2="450" y2="50"/>
+      <line x1="444.6" y1="83.1" x2="432.4" y2="53.5"/>
+      <line x1="440.1" y1="86.1" x2="417.5" y2="63.5"/>
+      <line x1="437.1" y1="90.6" x2="407.5" y2="78.4"/>
+    </g>
+  </g>
+
+  <!-- Name -->
+  <text x="450" y="170" text-anchor="middle" fill="#f3efe4"
+        font-family="Baskerville, 'Baskerville Old Face', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif"
+        font-size="58" font-style="italic" letter-spacing="1">Hezron Jahmia</text>
+
+  <!-- Small ornament rule -->
+  <g stroke="#c9a85c" stroke-width="1">
+    <line x1="340" y1="194" x2="436" y2="194"/>
+    <line x1="464" y1="194" x2="560" y2="194"/>
+  </g>
+  <rect x="-3.5" y="-3.5" width="7" height="7" fill="#c9a85c" transform="translate(450 194) rotate(45)"/>
+
+  <!-- Titles -->
+  <text x="450" y="228" text-anchor="middle" fill="#f3efe4"
+        font-family="Baskerville, 'Baskerville Old Face', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif"
+        font-size="21" font-style="italic">Software engineer and data scientist</text>
+  <text x="450" y="254" text-anchor="middle" fill="#f3efe4" fill-opacity="0.72"
+        font-family="Baskerville, 'Baskerville Old Face', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif"
+        font-size="15">Applications in Flutter and Go, analysis in Python, and games in Flame.</text>
+</svg>
